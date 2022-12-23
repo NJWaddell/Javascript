@@ -26,3 +26,4 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
+![Java_SS](https://user-images.githubusercontent.com/119262496/209268430-1c1cc868-c92f-4463-869c-3b499864845d.PNG)
